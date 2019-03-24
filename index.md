@@ -9,11 +9,7 @@ Having trouble with TURF? Feel free to send an e-mail to turfhalo@gmail.com
 This policy applies to all information collected or submitted on Overcast’s website and our apps for iPhone and any other devices and platforms.
 
 ### Information we collect
-When creating an account, you will be asked to enter an optional email address and a password. Email addresses are only used for logging in, password resets, responding to emails that you initiate, and notifications that you request. We don’t send promotional emails.
-
-You may choose not to provide an email address and have an anonymous sync account instead.
-
-We store information about your podcasts, episodes, and listening progress to sync this information between the website and your devices. We also collect anonymous statistics about which podcasts are most popular to help inform our recommendation engine.
+Currently, we only temporarily (90 days) store anonymous analytics information on usage of the app.
 
 ### Technical basics
 If you enable notifications, we must store a token to send them. We never use notifications for marketing.
