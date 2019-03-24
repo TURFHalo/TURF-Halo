@@ -1,9 +1,10 @@
 ## What is TURF Halo?
 TURF is a celebration of Halo's roots, new and old, and hopes to help grow some new ones along the way.
 
-
 ### Support or Contact
 Having trouble with TURF? Feel free to send an e-mail to turfhalo@gmail.com
+
+
 
 ## Privacy Policy
 This policy applies to all information collected or submitted on TURF's website and our apps for iPhone and any other devices and platforms.
@@ -12,13 +13,7 @@ This policy applies to all information collected or submitted on TURF's website 
 Currently, we only temporarily (90 days) store anonymous analytics information on usage of the app using Microsoft App Center.
 
 ### Technical basics
-If you enable notifications, we must store a token to send them. We never use notifications for marketing.
-
-If you upload files to Overcast, we need to store them until you delete them.
-
-If you subscribe to a password-protected podcast, we need to store the credentials you provide in order to keep it updated.
-
-We use cookies on the site and similar tokens in the app to keep you logged in. Our server software may also store basic technical information, such as your IP address, in temporary memory or logs.
+Our server software may store basic technical information, such as your IP address, in temporary memory or logs.
 
 ### Analytics
 TURF collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app. Currently, analytics are deleted every 90 days.
