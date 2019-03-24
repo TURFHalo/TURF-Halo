@@ -8,7 +8,7 @@ Having trouble with TURF? Feel free to reach out to me on TeamBeyond.net
 ## Privacy Policy
 This policy applies to all information collected or submitted on Overcast’s website and our apps for iPhone and any other devices and platforms.
 
-#Information we collect
+###Information we collect
 When creating an account, you will be asked to enter an optional email address and a password. Email addresses are only used for logging in, password resets, responding to emails that you initiate, and notifications that you request. We don’t send promotional emails.
 
 You may choose not to provide an email address and have an anonymous sync account instead.
