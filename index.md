@@ -10,7 +10,7 @@ Having trouble with TURF? Feel free to send an e-mail to turfhalo@gmail.com
 This policy applies to all information collected or submitted on TURF's website and our apps for iPhone and any other devices and platforms.
 
 ### Information we collect
-Currently, we only temporarily (90 days) store anonymous analytics information on usage of the app using Microsoft App Center.
+We do not collect any personally identifiable information from users. Currently, we only temporarily (90 days) store anonymous analytics information on usage of the app using Microsoft App Center.
 
 ### Technical basics
 Our server software may store basic technical information, such as your IP address, in temporary memory or logs.
