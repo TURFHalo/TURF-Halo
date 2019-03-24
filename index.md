@@ -6,7 +6,7 @@ TURF is a celebration of Halo's roots, new and old, and hopes to help grow some 
 Having trouble with TURF? Feel free to send an e-mail to turfhalo@gmail.com
 
 ## Privacy Policy
-This policy applies to all information collected or submitted on Overcast’s website and our apps for iPhone and any other devices and platforms.
+This policy applies to all information collected or submitted on TURF's website and our apps for iPhone and any other devices and platforms.
 
 ### Information we collect
 Currently, we only temporarily (90 days) store anonymous analytics information on usage of the app using Microsoft App Center.
