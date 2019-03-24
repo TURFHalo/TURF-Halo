@@ -3,7 +3,7 @@ TURF is a celebration of Halo's roots, new and old, and hopes to help grow some 
 
 
 ### Support or Contact
-Having trouble with TURF? Feel free to reach out to me on TeamBeyond.net
+Having trouble with TURF? Feel free to send an e-mail to turfhalo@gmail.com
 
 ## Privacy Policy
 This policy applies to all information collected or submitted on Overcast’s website and our apps for iPhone and any other devices and platforms.
