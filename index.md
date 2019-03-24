@@ -9,7 +9,7 @@ Having trouble with TURF? Feel free to send an e-mail to turfhalo@gmail.com
 This policy applies to all information collected or submitted on Overcast’s website and our apps for iPhone and any other devices and platforms.
 
 ### Information we collect
-Currently, we only temporarily (90 days) store anonymous analytics information on usage of the app.
+Currently, we only temporarily (90 days) store anonymous analytics information on usage of the app using Microsoft App Center.
 
 ### Technical basics
 If you enable notifications, we must store a token to send them. We never use notifications for marketing.
